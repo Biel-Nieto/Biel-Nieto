@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! Soy Biel Nieto 👋
 
-<!--
-**Biel-Nieto/Biel-Nieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Administración de Sistemas Informáticos en Red (ASIX)** apasionado por la gestión de sistemas Linux/Windows, redes, bases de datos y despliegue de infraestructura.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Competencias
+
+* **Sistemas y Servidores:** Linux (Debian, Ubuntu), Windows Server 2022, Active Directory, LDAP, Samba, Docker.
+* **Redes y Automatización:** Gestión de redes, Bash / Python scripting, Git & GitHub.
+* **Bases de Datos & Backend:** Oracle SQL / PL-SQL, MongoDB, PHP, JavaScript, HTML/CSS.
+
+---
+
+### 🚀 Proyectos Destacados
+
+* **[Movly](https://github.com/Biel-Nieto/movly):** Aplicación web full-stack desarrollada con PHP, MySQL, HTML/CSS y JavaScript con autenticación de usuarios y persistencia de datos.
+
+---
+
+### 📫 Contacto
+* **Email:** bielnieto6@gmail.com
+* **Ubicación:** Sant Andreu de la Barca, Barcelona
