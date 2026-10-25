@@ -14,7 +14,7 @@ Estudiante de **Administración de Sistemas Informáticos en Red (ASIX)** apasio
 
 ### 🚀 Proyectos Destacados
 
-* **[Movly](https://github.com/Biel-Nieto/movly):** Aplicación web full-stack desarrollada con PHP, MySQL, HTML/CSS y JavaScript con autenticación de usuarios y persistencia de datos.
+* **Movly:** Aplicación web full-stack desarrollada con PHP, MySQL, HTML/CSS y JavaScript con autenticación de usuarios y persistencia de datos.
 
 ---
 
